@@ -2,16 +2,16 @@ import ButtonSvg from "../assets/svg/ButtonSvg";
 
 const Button = ({ className, href, onClick, children, px, white }) => {
 
-  // variable class - 1; class store in variable
+  // this variable store class
   const classes = `button relative inline-flex items-center justify-center h-11 transition-colors hover:text-color-1 ${
     px || "px-7"
   } ${white ? "text-n-8" : "text-n-1"} ${className || ""}`;
 
-  // variable class - 2; class store in variable
+  // this variable store class
   const spanClasses = "relative z-10";
 
 
-  //function 1
+  // render button function
   const renderButton = () => (
     <button className={classes} onClick={onClick}>
       <span className={spanClasses}>{children}</span>
@@ -19,7 +19,7 @@ const Button = ({ className, href, onClick, children, px, white }) => {
     </button>
   );
 
-  // function 2
+  // render Link button function
   const renderLink = () => (
     <a href={href} className={classes}>
       <span className={spanClasses}>{children}</span>
@@ -27,5 +27,7 @@ const Button = ({ className, href, onClick, children, px, white }) => {
     </a>
   );
 
-  return 
+  return href ? renderLink() : renderButton();
 };
+
+export default Button;

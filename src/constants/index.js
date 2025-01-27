@@ -1,3 +1,5 @@
+
+// import all svg icon
 import {
   benefitIcon1,
   benefitIcon2,
@@ -83,6 +85,8 @@ export const brainwaveServices = [
   "Seamless Integration",
 ];
 
+
+// svg icon section
 export const brainwaveServicesIcons = [
   recording03,
   recording01,
