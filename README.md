@@ -1,8 +1,9 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+    <a href="#" target="_blank">
+      <img src="#" alt="Project Banner">
     </a>
+    <!-- https://i.ibb.co/Kqdv8j1/Image-from.png -->
   <br />
 
   <div>
@@ -105,4 +106,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ```
 npm install react-router-dom
 
-```# brainwaves
+```
