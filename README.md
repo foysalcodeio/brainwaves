@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-  <h2>site link : </h2>
     <a href="https://neurowave-9008a.web.app/" target="_blank">
       <h2>Nuerowave</h2>
     </a>
