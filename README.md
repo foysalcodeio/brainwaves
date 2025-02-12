@@ -1,8 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://neurowave-9008a.web.app/" target="_blank">
-      <h2>Nuerowave</h2>
-    </a>
   <br />
 
   <div>
@@ -104,5 +101,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ## Installation command line
 ```
 npm install react-router-dom
-
+```
+## Site Link
+```
+https://neurowave-9008a.web.app/
 ```
