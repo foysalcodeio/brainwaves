@@ -1,9 +1,9 @@
 <div align="center">
   <br />
-    <a href="#" target="_blank">
-      <img src="#" alt="Project Banner">
+  <h2>site link : </h2>
+    <a href="https://neurowave-9008a.web.app/" target="_blank">
+      <h2>Nuerowave</h2>
     </a>
-    <!-- https://i.ibb.co/Kqdv8j1/Image-from.png -->
   <br />
 
   <div>
