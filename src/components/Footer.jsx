@@ -1,5 +1,5 @@
 import React from "react";
-import Section from "./Section";
+import Section from "./design/Section";
 import { socials } from "../constants";
 
 const Footer = () => {
